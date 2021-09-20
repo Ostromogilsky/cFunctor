@@ -1,0 +1,2 @@
+-cFunctor class allows to dynamically create function objects, parsing std::string with math expression.
+-cInterpreter class is provide expandable math expression parser.
